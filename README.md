@@ -1,3 +1,3 @@
-# dotnet_cli_demo
+# .NET CLI Demo
 
 Testing cli for .NET -- creating, building, etc.
